@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**siposm/siposm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Content moved to [https://gitlab.com/siposm](https://gitlab.com/siposm).
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
