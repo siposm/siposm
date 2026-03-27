@@ -1,8 +1,6 @@
 Hi, I'm **Miklos Sipos**. 👋 I'm a **full-stack developer**, **university lecturer**, and researcher working at the intersection of software engineering, education, and applied research. I'm currently pursuing my **PhD** studies in blockchain technologies and serve as the **specialization lead** for Software Design and Development [specialization](https://bprof-spec.github.io/).
 
-## Teaching
-
-The main subjects I currently teach are:
+## Currently teaching
 
 - **Fullstack Development**  
 End-to-end web application development covering client-side foundations using vanilla JS and modern frontend practices, combined with REST API backend architecture.  
