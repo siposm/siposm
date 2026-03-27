@@ -3,24 +3,23 @@ Hi, I'm **Miklos Sipos**. 👋 I'm a **full-stack developer**, **university lect
 ## Currently teaching
 
 - **Fullstack Development**  
-End-to-end web application development covering client-side foundations using vanilla JS and modern frontend practices, combined with REST API backend architecture.  
-[repo](https://github.com/siposm/oktatas-fullstack) • [site](https://nik.siposm.hu/fs)
+End-to-end web application development covering client-side foundations using vanilla JS and modern frontend practices, combined with REST API backend architecture.
 
 - **Frontend Development**  
-Modern client-side development from core web technologies to framework-driven architectures, with a strong focus on Angular and TypeScript, complemented by styling ecosystems and component-based design.  
-[repo](https://github.com/siposm/oktatas-frontend-dev) • [site](https://nik.siposm.hu/kf)
+Modern client-side development from core web technologies to framework-driven architectures, with a strong focus on Angular and TypeScript, complemented by styling ecosystems and component-based design.
 
 - **Thesis**  
-Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions.  
-[repo](https://github.com/siposm/oktatas-szakd-docs) • [site](https://nik.siposm.hu/szakd)
+Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions.
 
 - **Advanced Development Techniques**  
-Advanced C# and .NET development, covering delegates, LINQ, concurrency (tasks, threads), reflection, layered architectures, and testing practices in real-world applications.  
-[repo](https://github.com/siposm/oktatas-hft) • [site](https://nik.siposm.hu/hft-minfo)
+Advanced C# and .NET development, covering delegates, LINQ, concurrency (tasks, threads), reflection, layered architectures, and testing practices in real-world applications.
 
 - **Software Design and Development II.**  
-Object-oriented design and core data structures, including inheritance, polymorphism, interfaces, delegates and events, generics, and fundamental structures such as trees, graphs, and hash-based collections.  
-[repo](https://github.com/siposm/oktatas-sztf2) • [site](https://nik.siposm.hu/sztf2)
+Object-oriented design and core data structures, including inheritance, polymorphism, interfaces, delegates and events, generics, and fundamental structures such as trees, graphs, and hash-based collections.
+
+> [!TIP]
+> Course materials, repositories, and additional resources are available on my academic site and GitHub profile.  
+> See: [nik.siposm.hu](https://nik.siposm.hu) or check the pinned repositories on my GitHub profile.
 
 ## Recent publications
 
