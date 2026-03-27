@@ -9,7 +9,7 @@ End-to-end web application development covering client-side foundations using va
 Modern client-side development from core web technologies to framework-driven architectures, with a strong focus on Angular and TypeScript, complemented by styling ecosystems and component-based design.
 
 - **Thesis**  
-Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions.
+Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised more than 100 thesis projects to successful completion.
 
 - **Advanced Development Techniques**  
 Advanced C# and .NET development, covering delegates, LINQ, concurrency (tasks, threads), reflection, layered architectures, and testing practices in real-world applications.
