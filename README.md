@@ -1,11 +1,11 @@
-Hi, I'm Miklós Sipos. 👋 I'm a **full-stack developer**, **university lecturer**, and researcher working at the intersection of software engineering, education, and applied research. I'm currently pursuing a **PhD** and serve as the **specialization lead** for [Software Design and Development specialization](https://bprof-spec.github.io/).
+Hi, I'm **Miklos Sipos**. 👋 I'm a **full-stack developer**, **university lecturer**, and researcher working at the intersection of software engineering, education, and applied research. I'm currently pursuing my **PhD** studies in blockchain technologies and serve as the **specialization lead** for Software Design and Development [specialization](https://bprof-spec.github.io/).
 
 ## Teaching
 
 The main subjects I currently teach are:
 
 - **Fullstack Development**  
-End-to-end web application development covering client-side foundations and modern frontend practices, combined with ASP.NET MVC and REST API backend architecture.  
+End-to-end web application development covering client-side foundations using vanilla JS and modern frontend practices, combined with REST API backend architecture.  
 [repo](https://github.com/siposm/oktatas-fullstack) • [site](https://nik.siposm.hu/fs)
 
 - **Frontend Development**  
@@ -33,4 +33,4 @@ Object-oriented design and core data structures, including inheritance, polymorp
 - [_Analyzing Training Exercises with Mathematical Algorithms and Convolutional Neural Network_](https://nik.siposm.hu/pub)
 - [_Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis_](https://nik.siposm.hu/pub)
 
-You can find the full publication list [here](https://nik.siposm.hu/pub).
+You can find all publications [here](https://nik.siposm.hu/pub) with full papers.
