@@ -9,7 +9,7 @@ End-to-end web application development covering client-side foundations using va
 Modern client-side development from core web technologies to framework-driven architectures, with a strong focus on Angular and TypeScript, complemented by styling ecosystems and component-based design.
 
 - **Thesis**  
-Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised more than 100 thesis projects to successful completion.
+Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised more than [100 thesis](https://nik.siposm.hu/szakd) projects to successful completion.
 
 - **Advanced Development Techniques**  
 Advanced C# and .NET development, covering delegates, LINQ, concurrency (tasks, threads), reflection, layered architectures, and testing practices in real-world applications.
@@ -18,7 +18,7 @@ Advanced C# and .NET development, covering delegates, LINQ, concurrency (tasks, 
 Object-oriented design and core data structures, including inheritance, polymorphism, interfaces, delegates and events, generics, and fundamental structures such as trees, graphs, and hash-based collections.
 
 > [!TIP]
-> Course materials and additional resources are available on my [academic site](https://nik.siposm.hu) and GitHub profile, check my repositories under pinned section.  
+> Course materials and additional resources are available both on my [academic site](https://nik.siposm.hu) and GitHub profile, check my repositories below at the pinned section.  
 
 ## Recent publications
 
