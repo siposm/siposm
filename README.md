@@ -22,11 +22,12 @@ Object-oriented design and core data structures, including inheritance, polymorp
 
 ## Recent publications
 
+- [_AI-Assisted Multi-Source Decision Support Framework for Evaluating Developer Teamwork from Repositories, Meeting Transcripts, and Peer Feedback_](https://nik.siposm.hu/pub)
+- [_Baseline-Normalized Deception Cue Detection from Facial Action Units in Short Video Responses_](https://nik.siposm.hu/pub)
 - [_Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods_](https://nik.siposm.hu/pub)
 - [_Blockchain Transaction Graph Analysis Using Image Processing Techniques_](https://nik.siposm.hu/pub)
 - [_Analyzing Follower Data on Social Platforms Using Big Data Tools_](https://nik.siposm.hu/pub)
 - [_Blockchain-based Voting DApp with MetaMask Integration_](https://nik.siposm.hu/pub)
-- [_Analyzing Training Exercises with Mathematical Algorithms and Convolutional Neural Network_](https://nik.siposm.hu/pub)
 - [_Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis_](https://nik.siposm.hu/pub)
 
 You can find all publications [here](https://nik.siposm.hu/pub) with full papers.
