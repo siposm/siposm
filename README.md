@@ -3,17 +3,23 @@ Hi, I'm **Miklos Sipos**. 👋 I'm a **full-stack developer**, **university lect
 ## Currently teaching
 
 #### **💻 Frontend Development**  
-  A practice-oriented course covering modern frontend development, from JavaScript and TypeScript fundamentals to advanced Angular applications. The focus is on component-based architecture, reactive programming, and building maintainable, production-ready web applications.
+A practice-oriented course covering modern frontend development, from JavaScript and TypeScript fundamentals to advanced Angular applications. The focus is on component-based architecture, reactive programming, and building maintainable, production-ready web applications.
 
-  **Topics:** `JavaScript` · `TypeScript` · `Angular` · `Component I/O` · `ViewChild` · `Content Projection` · `Lifecycle Hooks` · `RxJS` · `Observables` · `Stateful/Stateless` · `HTTP Interceptors` · `Authentication` · `Unit Testing` · `Deployment`
+**Keywords:** `JavaScript` · `TypeScript` · `Angular` · `Component I/O` · `ViewChild` · `Content Projection` · `Lifecycle Hooks` · `RxJS` · `Observables` · `Stateful/Stateless` · `HTTP Interceptors` · `Authentication` · `Unit Testing` · `Deployment`
+
+---
 
 #### **🌐 Fullstack Development**  
-  An end-to-end introduction to web application development, connecting frontend technologies with server-side programming. Students progress from static websites and interactive user interfaces to dynamic, database-driven applications using PHP, ASP.NET MVC, and RESTful APIs.
+An end-to-end introduction to web application development, connecting frontend technologies with server-side programming. Students progress from static websites and interactive user interfaces to dynamic, database-driven applications using PHP, ASP.NET MVC, and RESTful APIs.
 
-  **Topics:** `HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `DOM` · `Event Handling` · `Fetch API` · `PHP` · `ASP.NET MVC` · `REST API` · `CRUD` · `HTTP` · `JSON` · `CORS` · `Swagger` · `Postman`
+**Keywords:** `HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `DOM` · `Event Handling` · `Fetch API` · `PHP` · `ASP.NET MVC` · `REST API` · `CRUD` · `HTTP` · `JSON` · `CORS` · `Swagger` · `Postman`
+
+---
 
 #### **🎓 Thesis Supervision**  
-  Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised more than [100 thesis projects](https://nik.siposm.hu/szakd) to successful completion.
+Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised more than [100 thesis projects](https://nik.siposm.hu/szakd) to successful completion.
+
+**Keywords:** `AI` · `Fullstack Development` · `Software Engineering` · `Blockchain` · `Computer Vision` · `Data Analytics` · `Cybersecurity` · `Optimization` · `Simulation`
 
 > [!TIP]
 > Course materials and additional resources are available both on my [academic site](https://nik.siposm.hu) and GitHub profile, check my repositories below at the pinned section.  
