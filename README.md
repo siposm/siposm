@@ -2,20 +2,14 @@ Hi, I'm **Miklos Sipos**. 👋 I'm a **full-stack developer**, **university lect
 
 ## Currently teaching
 
+- **Frontend Development**  
+A comprehensive, practice-oriented journey through modern frontend engineering, spanning **JavaScript and TypeScript fundamentals**, responsive UI design, and component-based application development. Emphasis is placed on **Angular** and its ecosystem, covering routing, dependency injection, reactive programming with RxJS, state management, component communication, and lifecycle management. Advanced topics include authentication, API integration, HTTP interceptors, application architecture, testing, security, and deployment, with a strong focus on building maintainable, scalable, and production-ready web applications.
+
 - **Fullstack Development**  
 End-to-end web application development covering client-side foundations using vanilla JS and modern frontend practices, combined with REST API backend architecture.
 
-- **Frontend Development**  
-Modern client-side development from core web technologies to framework-driven architectures, with a strong focus on Angular and TypeScript, complemented by styling ecosystems and component-based design.
-
 - **Thesis**  
 Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised more than [100 thesis](https://nik.siposm.hu/szakd) projects to successful completion.
-
-- **Advanced Development Techniques**  
-Advanced C# and .NET development, covering delegates, LINQ, concurrency (tasks, threads), reflection, layered architectures, and testing practices in real-world applications.
-
-- **Software Design and Development II.**  
-Object-oriented design and core data structures, including inheritance, polymorphism, interfaces, delegates and events, generics, and fundamental structures such as trees, graphs, and hash-based collections.
 
 > [!TIP]
 > Course materials and additional resources are available both on my [academic site](https://nik.siposm.hu) and GitHub profile, check my repositories below at the pinned section.  
@@ -25,9 +19,7 @@ Object-oriented design and core data structures, including inheritance, polymorp
 - [_AI-Assisted Multi-Source Decision Support Framework for Evaluating Developer Teamwork from Repositories, Meeting Transcripts, and Peer Feedback_](https://nik.siposm.hu/pub)
 - [_Baseline-Normalized Deception Cue Detection from Facial Action Units in Short Video Responses_](https://nik.siposm.hu/pub)
 - [_Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods_](https://nik.siposm.hu/pub)
-- [_Blockchain Transaction Graph Analysis Using Image Processing Techniques_](https://nik.siposm.hu/pub)
 - [_Analyzing Follower Data on Social Platforms Using Big Data Tools_](https://nik.siposm.hu/pub)
 - [_Blockchain-based Voting DApp with MetaMask Integration_](https://nik.siposm.hu/pub)
-- [_Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis_](https://nik.siposm.hu/pub)
 
 You can find all publications [here](https://nik.siposm.hu/pub) with full papers.
