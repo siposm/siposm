@@ -2,14 +2,18 @@ Hi, I'm **Miklos Sipos**. 👋 I'm a **full-stack developer**, **university lect
 
 ## Currently teaching
 
-- **Frontend Development**  
-A comprehensive, practice-oriented journey through modern frontend engineering, spanning **JavaScript and TypeScript fundamentals**, responsive UI design, and component-based application development. Emphasis is placed on **Angular** and its ecosystem, covering routing, dependency injection, reactive programming with RxJS, state management, component communication, and lifecycle management. Advanced topics include authentication, API integration, HTTP interceptors, application architecture, testing, security, and deployment, with a strong focus on building maintainable, scalable, and production-ready web applications.
+#### **💻 Frontend Development**  
+  A practice-oriented course covering modern frontend development, from JavaScript and TypeScript fundamentals to advanced Angular applications. The focus is on component-based architecture, reactive programming, and building maintainable, production-ready web applications.
 
-- **Fullstack Development**  
-End-to-end web application development covering client-side foundations using vanilla JS and modern frontend practices, combined with REST API backend architecture.
+  **Topics:** `JavaScript` · `TypeScript` · `Angular` · `Component I/O` · `ViewChild` · `Content Projection` · `Lifecycle Hooks` · `RxJS` · `Observables` · `Stateful/Stateless` · `HTTP Interceptors` · `Authentication` · `Unit Testing` · `Deployment`
 
-- **Thesis**  
-Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised more than [100 thesis](https://nik.siposm.hu/szakd) projects to successful completion.
+#### **🌐 Fullstack Development**  
+  An end-to-end introduction to web application development, connecting frontend technologies with server-side programming. Students progress from static websites and interactive user interfaces to dynamic, database-driven applications using PHP, ASP.NET MVC, and RESTful APIs.
+
+  **Topics:** `HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `DOM` · `Event Handling` · `Fetch API` · `PHP` · `ASP.NET MVC` · `REST API` · `CRUD` · `HTTP` · `JSON` · `CORS` · `Swagger` · `Postman`
+
+#### **🎓 Thesis Supervision**  
+  Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised more than [100 thesis projects](https://nik.siposm.hu/szakd) to successful completion.
 
 > [!TIP]
 > Course materials and additional resources are available both on my [academic site](https://nik.siposm.hu) and GitHub profile, check my repositories below at the pinned section.  
