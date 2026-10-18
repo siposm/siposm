@@ -5,7 +5,7 @@ Hi, I'm **Miklos Sipos**. 👋 I'm a **full-stack developer**, **university lect
 #### **💻 Frontend Development**  
 A practice-oriented course covering modern frontend development, from JavaScript and TypeScript fundamentals to advanced Angular applications. The focus is on component-based architecture, reactive programming, and building maintainable, production-ready web applications.
 
-**Keywords:** `JavaScript` · `TypeScript` · `Angular` · `Component I/O` · `ViewChild` · `Content Projection` · `Lifecycle Hooks` · `RxJS` · `Observables` · `Stateful/Stateless` · `HTTP Interceptors` · `Authentication` · `Unit Testing` · `Deployment`
+`JavaScript` · `TypeScript` · `Angular` · `Component I/O` · `ViewChild` · `Content Projection` · `Lifecycle Hooks` · `RxJS` · `Observables` · `Stateful/Stateless` · `HTTP Interceptors` · `Authentication` · `Unit Testing` · `Deployment`
 
 [📖 Explore course materials →](https://nik.siposm.hu/kf-spec)
 
@@ -14,7 +14,7 @@ A practice-oriented course covering modern frontend development, from JavaScript
 #### **🌐 Fullstack Development**  
 An end-to-end introduction to web application development, connecting frontend technologies with server-side programming. Students progress from static websites and interactive user interfaces to dynamic, database-driven applications using PHP, ASP.NET MVC, and RESTful APIs.
 
-**Keywords:** `HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `DOM` · `Event Handling` · `Fetch API` · `PHP` · `ASP.NET MVC` · `REST API` · `CRUD` · `HTTP` · `JSON` · `CORS` · `Swagger` · `Postman`
+`HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `DOM` · `Event Handling` · `Fetch API` · `PHP` · `ASP.NET MVC` · `REST API` · `CRUD` · `HTTP` · `JSON` · `CORS` · `Swagger` · `Postman`
 
 [📖 Explore course materials →](https://nik.siposm.hu/fs)
 
@@ -23,7 +23,7 @@ An end-to-end introduction to web application development, connecting frontend t
 #### **🎓 Thesis Supervision**  
 Supervision of BSc and MSc theses, including topic definition, research guidance, and support for designing and implementing complete software solutions. I have supervised **more than 100 thesis projects** to successful completion.
 
-**Keywords:** `AI` · `Fullstack Development` · `Software Engineering` · `Blockchain` · `Computer Vision` · `Data Analytics` · `Cybersecurity` · `Optimization` · `Simulation`
+`AI` · `Fullstack Development` · `Software Engineering` · `Blockchain` · `Computer Vision` · `Data Analytics` · `Cybersecurity` · `Optimization` · `Simulation`
 
 [📖 Thesis guidelines & resources →](https://nik.siposm.hu/szakd)
 
